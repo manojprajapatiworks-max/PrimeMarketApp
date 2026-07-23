@@ -1,0 +1,6 @@
+{
+  "name": "PrimeMarket",
+  "description": "Enterprise Rural Commerce & Hyperlocal Super App featuring real-time order tracking, multi-vendor marketplace, local services, and secure payment gateway.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
